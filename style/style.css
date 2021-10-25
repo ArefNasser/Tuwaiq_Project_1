@@ -1,8 +1,26 @@
-.img-fluid{
-    height: 200px;
-    width: 100%;
-}
+
 .carousel-inner{
     height: 600px;
     width: 100%;
 }
+
+.card-title{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+.card{
+
+    margin-bottom: 20px;
+}
+.footer {
+    background-color: lightgrey;
+    padding: 15px 25px;
+    text-align: center;
+  }
