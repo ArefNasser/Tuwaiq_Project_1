@@ -4,6 +4,10 @@
     width: 100%;
 }
 
+#img{
+    width: 100rem;
+}
+
 .card-title{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
@@ -24,3 +28,18 @@
     padding: 15px 25px;
     text-align: center;
   }
+
+#sec{
+    background-color: floralwhite;
+}
+
+.hidden{
+    display: none;
+}
+
+body{
+    background-image: url(../img/background.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
