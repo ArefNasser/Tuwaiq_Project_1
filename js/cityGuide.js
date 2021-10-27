@@ -47,8 +47,3 @@ function RoumCastle(){
     sessionStorage.setItem('name','RoumCastle');
     document.location.href = "secndpage.html";
 }
-/*
-$('#aboutNajran').click( function(){
-    window.location.href="secndpage.html";
-})
-*/
