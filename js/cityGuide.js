@@ -2,7 +2,15 @@ function About (){
     sessionStorage.setItem('name','About');
     document.location.href = "secndpage.html";
 }
+function SignIn (){
+    sessionStorage.setItem('name','SignIn');
+    document.location.href = "signIn.html";
+}
 
+function SignUp (){
+    sessionStorage.setItem('name','SignUp');
+    document.location.href = "signUp.html";
+}
 function Najran_Emirate (){
     sessionStorage.setItem('name','Najran_Emirate');
     document.location.href = "secndpage.html";
